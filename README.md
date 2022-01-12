@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi, I'm Majid Qafouri 
 
-<!--
-**MajeQafouri/MajeQafouri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👋 Social Media
+- [Linkedin](https://www.linkedin.com/in/majid-qafouri/)
+- [StackOverFlow](https://stackoverflow.com/users/5432783/majid-qafouri)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📕 My technical blogs 
+- [Personal website](http://qafouri.com/)
+- [Medium](https://medium.com/@m-qafouri)
+- [Dev Community](https://dev.to/majidqafouri)
+
+
+## 💌😄 I'm interested in 
+- .NET
+- Memory management
+- Architecture
+- Microservice
+- DDD
+- NoSQL
+
+
+## 👯 Contribution
+🚀🔔🌱 I’m looking to collaborate on .NET open source projects.
+
+
+
