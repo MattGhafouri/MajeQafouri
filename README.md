@@ -1,4 +1,4 @@
-# Hi, I'm Majid Qafouri 
+# Hi, I'm Matt Ghafouri
 
 
 ## 👋 Social Media
