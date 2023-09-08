@@ -2,14 +2,14 @@
 
 
 ## 👋 Social Media
-- [Linkedin](https://www.linkedin.com/in/majid-qafouri/)
-- [StackOverFlow](https://stackoverflow.com/users/5432783/majid-qafouri)
+- [Linkedin](https://www.linkedin.com/in/matt-ghafouri/)
+- [StackOverFlow](https://stackoverflow.com/users/5432783/matt-ghafouri)
 
 
 ## 📕 My technical blogs 
 - [Personal website](http://qafouri.com/)
 - [Medium](https://medium.com/@m-qafouri)
-- [Dev Community](https://dev.to/majidqafouri)
+- [Dev Community](https://dev.to/mattghafouri)
 
 
 ## 💌😄 I'm interested in 
