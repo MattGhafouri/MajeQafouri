@@ -1,29 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T19:25:28.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="BOGl8b-wOfOJxSEIHxd2" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T19:27:45.916Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="o3qqNn3-o_z_7Wyuhs5A" version="22.0.4" type="github">
   <diagram name="Page-1" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">
     <mxGraphModel dx="1674" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="374e34682ed331ee-1" value="&lt;h3 class=&quot;graf graf--h3&quot; name=&quot;c93f&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Kubernetes&amp;nbsp;&lt;/font&gt;&lt;/h3&gt;&lt;h3 class=&quot;graf graf--h3&quot; name=&quot;c93f&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 22px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Cluster&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/h3&gt;&lt;h3 class=&quot;graf graf--h3&quot; name=&quot;c93f&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 22px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Benefits&lt;/font&gt;&lt;/b&gt;&lt;/h3&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="374e34682ed331ee-1" value="&lt;h3 class=&quot;graf graf--h3&quot; name=&quot;c93f&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Kubernetes&amp;nbsp;&lt;/font&gt;&lt;/h3&gt;&lt;h3 class=&quot;graf graf--h3&quot; name=&quot;c93f&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Cluster&amp;nbsp;&lt;/font&gt;&lt;/h3&gt;&lt;h3 class=&quot;graf graf--h3&quot; name=&quot;c93f&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Benefits&lt;/font&gt;&lt;br&gt;&lt;/h3&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="330" y="180" width="400" height="400" as="geometry" />
         </mxCell>
         <mxCell id="45236fa5f4b8e91a-1" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;b&gt;High Availability&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="390" y="90" width="160" height="160" as="geometry" />
+          <mxGeometry x="380" y="90" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="45236fa5f4b8e91a-2" value="&lt;ol class=&quot;postList&quot;&gt;&lt;li class=&quot;graf graf--li&quot; name=&quot;e953&quot;&gt;&lt;strong class=&quot;markup--strong markup--li-strong&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Rolling Updates and Rollbacks&lt;/font&gt;&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;align=center;" parent="1" vertex="1">
+        <mxCell id="45236fa5f4b8e91a-2" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;b&gt;Rolling Updates &lt;br&gt;and &lt;br&gt;Rollbacks&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;align=center;" parent="1" vertex="1">
           <mxGeometry x="420" y="510" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="45236fa5f4b8e91a-5" value="Scalability" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="240" y="200" width="160" height="160" as="geometry" />
+        <mxCell id="45236fa5f4b8e91a-5" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;b&gt;Scalability&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="230" y="220" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="45236fa5f4b8e91a-6" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;b&gt;Resource Isolation&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;align=center;" parent="1" vertex="1">
           <mxGeometry x="580" y="120" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="45236fa5f4b8e91a-7" value="&lt;ol class=&quot;postList&quot;&gt;&lt;li class=&quot;graf graf--li&quot; name=&quot;0f3a&quot;&gt;&lt;strong class=&quot;markup--strong markup--li-strong&quot;&gt;Auto-Scaling&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="45236fa5f4b8e91a-7" value="&lt;div&gt;&lt;font style=&quot;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Auto-Scaling&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="600" y="460" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="45236fa5f4b8e91a-8" value="&lt;ol class=&quot;postList&quot;&gt;&lt;li class=&quot;graf graf--li&quot; name=&quot;1c5b&quot;&gt;&lt;strong class=&quot;markup--strong markup--li-strong&quot;&gt;Multi-Tenancy&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="260" y="390" width="160" height="160" as="geometry" />
+        <mxCell id="45236fa5f4b8e91a-8" value="&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Helvetica&quot;&gt;Multi-Tenancy&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="270" y="400" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="4JLwz5jdQQtO2X3QlTvX-2" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;b&gt;Resource Isolation&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;align=center;" vertex="1" parent="1">
           <mxGeometry x="660" y="290" width="160" height="160" as="geometry" />
